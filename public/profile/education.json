@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "Aug 2023  - May 2025",
+            "cardTitle": "MCA, Master of Computer Applications",
+            "cardSubtitle":"DR D. Y. Patil Technical Campus Talegaon Dabhade, Pune",
+            "cardDetailedText": "SGPA - 7.47"
+        },
+        {
+            "title": "Jun 2019 - Mar 2022",
+            "cardTitle": "BCA, Bachelor of Computer Applications",
+            "cardSubtitle":"COCSIT College, Latur",
+            "cardDetailedText": "Marks - 84.94%"
+           
+        }
+    ]
+}

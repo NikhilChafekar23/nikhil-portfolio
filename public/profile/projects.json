@@ -1,0 +1,125 @@
+{
+    "projects": [
+        {
+            "title": "Shopify Clone",
+            "bodyText": "- A Shopify-like eCommerce platform built with MERN stack.\n - Features include product listing, user authentication, and checkout process.\n - Fully responsive and scalable.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/shopify.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://shopify-three-delta.vercel.app/"
+                }
+            ],
+            "tags": [
+                "MERN",
+                "E-Commerce",
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Express"
+            ]
+        },
+        {
+            "title": "Signup & Login Form (Express)",
+            "bodyText": "- A simple user authentication system using Express.js.\n - Implements signup, login, and password hashing.\n - Uses JWT for secure authentication.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/Signup-form-and-login-express.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://signup-form-and-login-express.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Express",
+                "Node.js",
+                "Authentication",
+                "JWT",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Email Sender",
+            "bodyText": "- A Node.js-based email sender using Nodemailer.\n - Supports SMTP configuration for bulk emails.\n - Secure and customizable email templates.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/emailsender.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://emailsender-five.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Node.js",
+                "Express",
+                "Nodemailer",
+                "SMTP"
+            ]
+        },
+        {
+            "title": "Mobile Authentication App",
+            "bodyText": "- Implements mobile authentication using OTP verification.\n - Built with React Native and Firebase Authentication.\n - Supports both email and phone-based authentication.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/mobile-authentication-app.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mobile-authentication-app.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React Native",
+                "Firebase",
+                "OTP Authentication",
+                "Mobile App"
+            ]
+        },
+        {
+            "title": "Chat Bot",
+            "bodyText": "- A chatbot application built with Node.js and Express.\n - Uses AI-based responses and integrates with a chat UI.\n - Can be customized for different use cases.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/chat-bot.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://chat-bot-five-alpha.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Node.js",
+                "Chatbot",
+                "Express",
+                "AI"
+            ]
+        },
+        {
+            "title": "Travel Booking App",
+            "bodyText": "- A travel booking platform for searching and booking trips.\n - Features include real-time search, filters, and secure payment integration.\n - Designed with a responsive UI and smooth user experience.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://travel-booking-iota.vercel.app/"
+                }
+            ],
+            "tags": [
+                "Travel",
+                "Booking",
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Express"
+            ]
+        }
+    ]
+}

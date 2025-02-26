@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Numetry Technology",
+            "workType": "Internship",
+            "workDescription": [
+                
+                "Shopify Clone – Developing and optimizing an e-commerce platform.",
+                "Travel Booking App – Building a seamless travel booking system.",
+                "Numetry Technology Website – Enhancing and maintaining the company's website.",
+                "Chatbox – Creating interactive chat solutions.",
+                "Mobile Authentication – Implementing secure login and authentication systems."
+            ],
+            "dateText": "01/2025 – Present"
+        }
+    ]
+}
