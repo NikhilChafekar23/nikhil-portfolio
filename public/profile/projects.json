@@ -120,6 +120,26 @@
                 "MongoDB",
                 "Express"
             ]
+        },
+        {
+            "title": "Millionaire Game",
+            "bodyText": "- A fun 'Who Wants to Be a Millionaire' trivia game.\n - Built using React with interactive UI and multiple difficulty levels.\n - Features lifelines and scoring system to enhance gameplay.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NikhilChafekar23/Millionaire.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://millionaire-seven.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "Game",
+                "Trivia",
+                "Interactive UI"
+            ]
         }
     ]
 }
